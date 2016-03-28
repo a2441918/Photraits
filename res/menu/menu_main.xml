@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu>
+    <item android:id="@id/share" android:title="@string/share" android:showAsAction="1" android:actionProviderClass="android.widget.ShareActionProvider" />
+</menu>
